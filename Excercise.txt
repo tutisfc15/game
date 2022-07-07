@@ -1,0 +1,11 @@
+1. Go through different functions and explain what they are for
+2. Change background image
+3. Change snake and apple images
+4. Change game speed
+5. Never game over
+6. Make game quicker and slower
+
+
+
+Summary of Program:
+===================
